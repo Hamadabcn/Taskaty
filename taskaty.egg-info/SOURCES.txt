@@ -1,0 +1,11 @@
+setup.py
+taskaty/__init__.py
+taskaty/app.py
+taskaty/task.py
+taskaty/taskController.py
+taskaty.egg-info/PKG-INFO
+taskaty.egg-info/SOURCES.txt
+taskaty.egg-info/dependency_links.txt
+taskaty.egg-info/entry_points.txt
+taskaty.egg-info/requires.txt
+taskaty.egg-info/top_level.txt
