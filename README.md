@@ -1,2 +1,2 @@
-# Taskaty part of Hsoub Academy course
-Task manager
+# Taskaty Hsoub Academy course
+Command-line interface (CLI) Task manager
